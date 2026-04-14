@@ -2,6 +2,8 @@
 
 This repository evaluates whether running AI locally for software and platform engineering is a better fit than per-user SaaS subscriptions.
 
+The information is current as per April 2026.
+
 ## Goal
 
 Assess technical and financial feasibility for team sizes:
